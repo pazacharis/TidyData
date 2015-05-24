@@ -6,9 +6,8 @@ Subsequently, the body linear acceleration and angular velocity were derived in 
 
 Finally a Fast Fourier Transform (FFT) was applied to some of these signals producing fBodyAcc-XYZ, fBodyAccJerk-XYZ, fBodyGyro-XYZ, fBodyAccJerkMag, fBodyGyroMag, fBodyGyroJerkMag. (Note the 'f' to indicate frequency domain signals).
 
-The reasoning behind my selection of features is that the assignment explicitly states "Extracts only the measurements on the mean and standard deviation for each measurement." To be complete, I included all variables having to do with mean or standard deviation.
 
-In short, for this derived dataset, these signals were used to estimate variables of the feature vector for each pattern:
+These signals were used to estimate variables of the feature vector for each pattern:
 
 The subject variable takes values from 1 to 30 indicating different persons
 
