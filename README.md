@@ -1,6 +1,6 @@
 # TidyData
 
- Data collected from the accelerometers from the Samsung Galaxy S smartphone:
+ Data collected from the accelerometers from the Samsung Galaxy S smartphone.
  Read more at: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
  
  
